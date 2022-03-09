@@ -5,7 +5,7 @@ theme: "PaperMod"
 params:
     homeInfoParams:
         Title: "Arash Arbabi"
-        Content: I am a software engineer. Hope to become an AI scientist soon. [My Resume](http://example.com/ "With a Title").
+        Content: I am a software engineer. Hope to become an AI scientist soon. [My Resume](resume.pdf "Resume").
 
     socialIcons: # optional
         - name: "stackoverflow"
