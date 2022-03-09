@@ -3,13 +3,15 @@ languageCode: en-us
 title: Arash
 theme: "PaperMod"
 params:
+    hideFooter: true
     homeInfoParams:
         Title: "Arash Arbabi"
         Content: |
           I am a software engineer. Hope to become an AI scientist soon.  
-          [|Resume|](resume.pdf "Resume")
 
     socialIcons: # optional
+        - name: "cv"
+          url: "resume.pdf"
         - name: "stackoverflow"
           url: "https://stackoverflow.com/users/7116724/athecoder"
         - name: "linkedin"
