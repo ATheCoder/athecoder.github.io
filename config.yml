@@ -4,6 +4,7 @@ title: Arash
 theme: "PaperMod"
 params:
     hideFooter: true
+    ShowReadingTime: true
     homeInfoParams:
         Title: "Arash Arbabi"
         Content: |
