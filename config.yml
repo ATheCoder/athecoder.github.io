@@ -1,0 +1,16 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: Arash
+theme: "PaperMod"
+params:
+    homeInfoParams:
+        Title: "Arash Arbabi"
+        Content: I am a software engineer. Hope to become an AI scientist soon. [My Resume](http://example.com/ "With a Title").
+
+    socialIcons: # optional
+        - name: "stackoverflow"
+          url: "https://stackoverflow.com/users/7116724/athecoder"
+        - name: "linkedin"
+          url: "https://www.linkedin.com/in/arash-arbabi-76603b177/"
+        - name: "twitter"
+          url: "athecoder"
