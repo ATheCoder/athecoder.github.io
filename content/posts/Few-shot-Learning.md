@@ -2,6 +2,7 @@
 title: "Few Shot Learning: Problem Definition"
 date: 2022-07-29T14:26:21+04:30
 draft: false
+math: true
 ---
 In this series we are going to talk about few-shot learning.
 
