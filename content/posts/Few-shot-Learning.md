@@ -15,7 +15,7 @@ We i.e Humans do this all the time. It is in fact the most common way humans lea
 
 This was an inutive explaination. Let's see a few formal examples:
 
-I might have a dataset D with N datapoints. Each of the datapoints include features X_1 to X_n and a target variable called `y`.
+I might have a dataset D with N datapoints. Each of the datapoints include features $X_1$ to $X_n$ and a target variable called `y`.
 
 This is the classic definition for a classification problem. But, there is a catch. The actual values that `y` can take is a lot. Meaning the number of classes is high, think `100`. Furthermore, the number of datapoints for each of the classes is low. Think `10`. Now do you think that you can train a neural network to do this kind of classification? It depends...
 
