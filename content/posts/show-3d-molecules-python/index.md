@@ -54,4 +54,4 @@ view
 ```
 ![3D Depiction of Remdesivir](./remdesivir-3d.png)
 
-The resulting _ipywidget_ is a interactable 3D depiction of Remdesivir in Jupyter notebooks.
+The resulting _ipywidget_ is an interactable 3D depiction of Remdesivir in Jupyter notebooks.
